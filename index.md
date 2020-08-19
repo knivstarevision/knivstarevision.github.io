@@ -8,4 +8,6 @@ https://skr.se/demokratiledningstyrning/revision/attvarafortroendevaldrevisor.26
 
 Alla texter ska följa revisionens uppdrag enligt SKR ovan. Speciellt är revisorernas uppdrag oberoende av partipolitik.
 
+/Revisionen
+
 
