@@ -14,3 +14,4 @@ Knivsta Kommuns hemsida samlar en del av det offentliga material som revisionen 
 
 Ett av syftena med denna sida är att på ett pedagogiskt sätt belysa viktiga slutsatser i granskningar och göra allmänheten medveten om viktiga saker som händer i Knivsta Kommun.
 
+/ Johan Jansson, Revisor Knivsta
