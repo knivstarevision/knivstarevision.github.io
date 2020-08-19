@@ -1,6 +1,6 @@
 Syftet med denna webbsida är snabb och flexibel kommunikation av Knivstas revision med allmänheten. All information på denna sida är offentlig.
 
-Revisionens uppdrag enligt SKR är:
+SKR beskriver Revisionens uppdrag så här: **"Med sin granskning och prövning bidrar revisionen till en effektiv verksamhet samt till att värna demokrati, mänskliga rättigheter och rättssäkerhet."**:
 
 * [https://skr.se/demokratiledningstyrning/revision.383.html](https://skr.se/demokratiledningstyrning/revision.383.html)
 * [https://skr.se/demokratiledningstyrning/revision/attvarafortroendevaldrevisor.26443.html](https://skr.se/demokratiledningstyrning/revision/attvarafortroendevaldrevisor.26443.html)
@@ -8,7 +8,6 @@ Revisionens uppdrag enligt SKR är:
 Alla texter ska följa revisionens uppdrag enligt SKR ovan. Speciellt är revisorernas uppdrag oberoende av partipolitik.
 
 Knivsta Kommuns hemsida samlar en del av det offentliga material som revisionen har varit med och tagit fram:
-
 
 * [https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer](https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer)
 * [https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer/granskningar-och-skrivelser](https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer)
