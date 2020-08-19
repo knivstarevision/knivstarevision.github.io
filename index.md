@@ -7,5 +7,11 @@ Revisionens uppdrag enligt SKR är:
 
 Alla texter ska följa revisionens uppdrag enligt SKR ovan. Speciellt är revisorernas uppdrag oberoende av partipolitik.
 
+Knivsta Kommuns hemsida samlar en del av det offentliga material som revisionen har varit med och tagit fram:
 
+
+* [https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer](https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer)
+* [https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer/granskningar-och-skrivelser](https://knivsta.se/politik-och-organisation/politik-och-namnder/fortroendevalda-revisorer)
+
+Ett av syftena med denna sida är att på ett pedagogiskt sätt belysa viktiga slutsatser i granskningar och göra allmänheten medveten om viktiga saker som händer i Knivsta Kommun.
 
