@@ -14,13 +14,12 @@ Knivsta Kommuns hemsida samlar en del av det offentliga material som revisionen 
 
 Ett av syftena med denna sida är att på ett pedagogiskt sätt belysa viktiga slutsatser i granskningar och göra allmänheten medveten om viktiga saker som händer i Knivsta Kommun.
 
-/ Johan Jansson (V), Revisor Knivsta
+/ Johan Jansson jjan@kth.se (V), Revisor Knivsta
 
 ## Viktigt i Knivsta just nu
 
 * 2020-08-19 - Lansering av Knivsta Revisions webbsidor
 
-  Test
+  Webbsidorna är nu uppe!
 
-* 2020-08-19 - Test
 
