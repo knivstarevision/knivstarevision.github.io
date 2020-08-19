@@ -16,3 +16,11 @@ Ett av syftena med denna sida är att på ett pedagogiskt sätt belysa viktiga s
 
 / Johan Jansson (V), Revisor Knivsta
 
+## Viktigt i Knivsta just nu
+
+* 2020-08-19 - Lansering av Knivsta Revisions webbsidor
+
+  Test
+
+* 2020-08-19 - Test
+
